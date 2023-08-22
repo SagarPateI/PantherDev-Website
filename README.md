@@ -3,6 +3,6 @@ GitHub repository for the PantherDev Game Development Club website, featuring so
 
 For the time being, this webpage is a static webpage which runs directly from this repository for free. After further development, it may developed into a fully-featured web app which uses a backend.
 # Links
-http://pantherdev.duckdns.org/
+https://pantherdev.duckdns.org/
 
 https://gsupantherdev.netlify.app/
