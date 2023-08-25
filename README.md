@@ -10,4 +10,4 @@ https://pantherdev.duckdns.org/
 https://gsupantherdev.netlify.app/
 
 ### This repo is currently a fork of: https://github.com/codewithsadee/unigine 
-We fully comply with the MIT License provided by the forked repository and are currently using the provided template for testing purposes to help create a website for our club.
+We fully comply with the MIT License provided by the forked repository which allows for private and commericial use and are currently using the provided template for testing purposes to help create a website for our club.
